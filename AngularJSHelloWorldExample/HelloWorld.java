@@ -1,4 +1,4 @@
-package org.citi.testing;
+package org.java2blog;
 
 public class HelloWorld {
 
